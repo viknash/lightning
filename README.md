@@ -207,8 +207,8 @@ You should also configure with `--enable-developer` to get additional checks and
 
 [blockstream-store-blog]: https://blockstream.com/2018/01/16/en-lightning-charge/
 [std]: https://github.com/lightningnetwork/lightning-rfc
-[travis-ci]: https://travis-ci.org/ElementsProject/lightning.svg?branch=master
-[travis-ci-link]: https://travis-ci.org/ElementsProject/lightning
+[travis-ci]: https://travis-ci.org/viknash/lightning.svg?branch=master
+[travis-ci-link]: https://travis-ci.org/viknash/lightning
 [prs]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat
 [prs-link]: http://makeapullrequest.com
 [IRC]: https://img.shields.io/badge/chat-on%20freenode-brightgreen.svg
@@ -219,7 +219,7 @@ You should also configure with `--enable-developer` to get additional checks and
 [ml2]: https://lists.linuxfoundation.org/mailman/listinfo/lightning-dev
 [docs]: https://lightning.readthedocs.org
 [ppa]: https://launchpad.net/~lightningnetwork/+archive/ubuntu/ppa
-[releases]: https://github.com/ElementsProject/lightning/releases
-[dockerhub]: https://hub.docker.com/r/elementsproject/lightningd/
+[releases]: https://github.com/viknash/lightning/releases
+[dockerhub]: https://hub.docker.com/r/viknash/lightningd/
 [jsonrpcspec]: https://www.jsonrpc.org/specification
 [helpme-github]: https://github.com/lightningd/plugins/tree/master/helpme
